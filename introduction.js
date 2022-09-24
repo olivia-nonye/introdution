@@ -6,4 +6,4 @@ Intro to javaScript
 var num = 10;
 var num2 = 5.6;
 var num3 = -190;
-//string: are characters. E.g:"H"
+//string: are characters. E.g:"H", "Olivia"
